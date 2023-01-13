@@ -579,7 +579,7 @@ VisualEffect:
       - m_Value: {x: 6.5180087, y: 269.9104, z: 89.211105}
         m_Name: MeshTransform_angles
         m_Overridden: 1
-      - m_Value: {x: -0.10313469, y: 1.6577675, z: 0.24768674}
+      - m_Value: {x: -0.10300006, y: 1.6577675, z: 0.18641603}
         m_Name: MeshTransform_position
         m_Overridden: 1
       - m_Value: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
@@ -735,7 +735,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 44b855b7a5789470b8a8add05eb57642,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.10313463
+      value: -0.103
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 44b855b7a5789470b8a8add05eb57642,
         type: 3}
@@ -745,7 +745,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 44b855b7a5789470b8a8add05eb57642,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.12527072
+      value: 0.064
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 44b855b7a5789470b8a8add05eb57642,
         type: 3}
