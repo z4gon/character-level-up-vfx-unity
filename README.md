@@ -1,39 +1,13 @@
-# Unity Template Project for URP
+# Character Level Up VFX
 
-{{YOUR_PROJECT_DESCRIPTION_HERE}} in **Unity 2021.3.16f1**
+Character Level Up VFX implemented with VFX Graph and Skinned Mesh in **Unity 2021.3.16f1**
 
 ## Screenshots
 
-![Gif](./docs/1.gif)
-![Gif](./docs/1.gif)
-
 ## Table of Content
-
-- [Implementation](#implementation)
-  - [Step 1](#step-1)
-    - [Step A](#step-a)
 
 ## Resources
 
-- [Ref](https://adrianb.io/2014/08/09/perlinnoise.html)
-- [Ref](https://adrianb.io/2014/08/09/perlinnoise.html)
-
-## Implementation
-
-### Step 1
-
-#### Step A
-
-1. Implementation detail.
-1. Implementation detail.
-1. Implementation detail.
-
-```c
-half4 some_shader_code()
-{
-    return half4(1,1,1,1);
-}
-```
-
-![Gif](./docs/1.gif)
-![Gif](./docs/1.gif)
+- [Level Up Effect Tutorial by Gabriel Aguiar](https://www.youtube.com/watch?v=tnUPngBEnQ8)
+- [Skinned Mesh Sampling in Unity VFX Graph](https://www.youtube.com/watch?v=bIMyCKr0bFs)
+- [Set Position Skinned Mesh](<https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@12.0/manual/Block-SetPosition(Mesh).html>)
