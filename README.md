@@ -42,6 +42,9 @@ Character Level Up VFX implemented with VFX Graph and Skinned Mesh in **Unity 20
 
 ![Picture](./docs/3.jpg)
 
+<!-- 1.mp4 -->
+https://user-images.githubusercontent.com/4588601/213369294-a6247544-d432-49c3-af19-13c027e88283.mp4
+
 ### Bind the Properties
 
 - Set the **Skinned Mesh Renderer** to the **Skinned Mesh Renderer** in the **FBX model** we imported.
@@ -53,7 +56,21 @@ Character Level Up VFX implemented with VFX Graph and Skinned Mesh in **Unity 20
 
 - If we just set the position on initialize, the effect we achieve looks like a trail.
 
+<!-- 2.mp4 -->
+https://user-images.githubusercontent.com/4588601/213369430-aedebe22-4396-4b20-931e-e44244872748.mp4
+
+<!-- 3.mp4 -->
+https://user-images.githubusercontent.com/4588601/213369436-42a1f6e8-3afc-4e22-a5c9-2c6373707d10.mp4
+
 ### Set Position on Update
 
 - If we just set the position on update, the particles follow the mesh, not what we want now.
 
+<!-- 4.mp4 -->
+https://user-images.githubusercontent.com/4588601/213369491-923332b9-afac-459f-9099-9b74e84e7c1a.mp4
+
+<!-- 5.mp4 -->
+https://user-images.githubusercontent.com/4588601/213369493-616b37df-d05d-40a5-a10b-9ea709b0de87.mp4
+
+<!-- 6.mp4 -->
+https://user-images.githubusercontent.com/4588601/213369499-aedb34f1-71c4-4eef-98be-b74486e06e0d.mp4
