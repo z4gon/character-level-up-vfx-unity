@@ -361,7 +361,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 133.205, y: -281.671, z: 415.164}
 --- !u!114 &410087042
 MonoBehaviour:
@@ -478,7 +478,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &716311704
 GameObject:
@@ -507,14 +507,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 716311704}
-  m_LocalRotation: {x: -0, y: -0.00000020861623, z: -0, w: 1}
-  m_LocalPosition: {x: 1.886, y: 0.017, z: 0.125}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -0.098, y: -0.234, z: 0.066}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Father: {fileID: 1295765230}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!73398921 &716311706
 VFXRenderer:
   serializedVersion: 1
@@ -688,7 +688,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1295765229
 PrefabInstance:
@@ -730,7 +730,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 44b855b7a5789470b8a8add05eb57642,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 44b855b7a5789470b8a8add05eb57642,
         type: 3}
@@ -1289,6 +1289,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44b855b7a5789470b8a8add05eb57642, type: 3}
+--- !u!4 &1295765230 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 44b855b7a5789470b8a8add05eb57642,
+    type: 3}
+  m_PrefabInstance: {fileID: 1295765229}
+  m_PrefabAsset: {fileID: 0}
 --- !u!137 &1295765231 stripped
 SkinnedMeshRenderer:
   m_CorrespondingSourceObject: {fileID: 4864380970615154875, guid: 44b855b7a5789470b8a8add05eb57642,
