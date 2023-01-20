@@ -16,6 +16,7 @@ Character Level Up VFX implemented with VFX Graph and Skinned Mesh in **Unity 20
     - [Bind the Properties](#bind-the-properties)
     - [Set Position on Initialize](#set-position-on-initialize)
     - [Set Position on Update](#set-position-on-update)
+  - [Particles Burst](#particles-burst)
 
 ## Resources
 
@@ -74,3 +75,14 @@ https://user-images.githubusercontent.com/4588601/213369493-616b37df-d05d-40a5-a
 
 <!-- 6.mp4 -->
 https://user-images.githubusercontent.com/4588601/213369499-aedb34f1-71c4-4eef-98be-b74486e06e0d.mp4
+
+## Particles Burst
+
+- Define a Single Burst of particles, we will later trigger it from code.
+- Set the particles to have a Sprite, Color, Size over Time and Velocity.
+
+![Picture](./docs/5.jpg)
+![Picture](./docs/6.jpg)
+
+<!-- 7.mp4 -->
+https://raw.githubusercontent.com/z4gon/character-level-up-vfx-unity/main/docs/videos/7.mp4
