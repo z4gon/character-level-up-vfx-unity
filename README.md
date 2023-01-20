@@ -85,4 +85,6 @@ https://user-images.githubusercontent.com/4588601/213369499-aedb34f1-71c4-4eef-9
 ![Picture](./docs/6.jpg)
 
 <!-- 7.mp4 -->
-https://raw.githubusercontent.com/z4gon/character-level-up-vfx-unity/main/docs/videos/7.mp4
+https://user-images.githubusercontent.com/4588601/213615413-75201d7d-d194-4ce1-918c-d86cf365394c.mp4
+
+
