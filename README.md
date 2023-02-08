@@ -17,6 +17,7 @@ Character Level Up VFX implemented with VFX Graph and Skinned Mesh in **Unity 20
     - [Set Position on Initialize](#set-position-on-initialize)
     - [Set Position on Update](#set-position-on-update)
   - [Particles Burst](#particles-burst)
+  - [Level Up Animation](#level-up-animation)
 
 ## Resources
 
@@ -86,5 +87,11 @@ https://user-images.githubusercontent.com/4588601/213369499-aedb34f1-71c4-4eef-9
 
 <!-- 7.mp4 -->
 https://user-images.githubusercontent.com/4588601/213615413-75201d7d-d194-4ce1-918c-d86cf365394c.mp4
+## Level Up Animation
 
+- Animate the character in Blender, create a levitation animation for the level up vfx.
+
+![Picture](./docs/7.jpg)
+
+<!-- 8.mp4 -->
 
